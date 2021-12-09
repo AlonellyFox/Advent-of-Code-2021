@@ -13,8 +13,8 @@ PROGRESS:
 - [x] December 5th (~2h)
 - [x] December 6th (~4h)
 - [x] December 7th (~30m)
-- [ ] December 8th
-- [ ] December 9th
+- [ ] December 8th 1/2 COMPLETE
+- [x] December 9th (~3h)
 - [ ] December 10th
 - [ ] December 11th
 - [ ] December 12th
